@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yile Chen"
-  avatar           : "selfportrait2.1.jpg"
+  avatar           : "Headshot.jpg"
   bio              : "Computer Engineering Student@TAMU"
-  location         : "Location"
+  location         : "College Station, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/YileAllenChen1"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  LinkedIn         : "https://www.linkedin.com/in/yile-allen-chen-0409/"
 
 
 # Reading Files
